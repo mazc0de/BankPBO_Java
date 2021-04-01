@@ -1,1 +1,1 @@
-# Program ini dibuat untuk memenuhi tugas Pemrograman Berbasis Objek
+program ini dibuat untuk memenuhi tugas Pemrograman Berbasis Objek
